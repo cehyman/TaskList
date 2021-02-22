@@ -8,6 +8,8 @@ out for the user to see. The delete feature just removes a task and resorts the 
 
 # Usage
 
+An example of how the code can be used.
+
 $ todo add 10 clean bedroom 
 
 $ todo list
