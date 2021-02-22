@@ -21,6 +21,7 @@ $ todo add 3 read
 $ todo list
 
 >3 read 1001
+
 >10 clean bedroom 1000
 
 $ todo delete 1000
